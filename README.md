@@ -2,8 +2,8 @@
 example code and easy to use User_module
 
 -----------------------------------------------------
-# data exchange between Nodejs and python
-# by Python-shell module
+data exchange between Nodejs and python
+by Python-shell module
 
 -----------------------------------------------------
 # Needs
