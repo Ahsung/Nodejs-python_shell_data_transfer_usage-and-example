@@ -1,10 +1,10 @@
 # Nodejs_python_shell_usage_ex
 
-example code
+example code    
 provide simple User_module
 
 -----------------------------------------------------
-data exchange between Nodejs and python
+data exchange between Nodejs and python    
 by Python-shell module
 
 -----------------------------------------------------
