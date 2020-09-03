@@ -9,9 +9,9 @@ by Python-shell module
 
 -----------------------------------------------------
 # Needs
-> * npm install python-shell
+ * npm install python-shell
 
 -----------------------------------------------------
 # user_modules/pyshell.js
-> * Sending Json data
-> * Sending Base64 data
+ * Sending Json data
+ * Sending Base64 data
