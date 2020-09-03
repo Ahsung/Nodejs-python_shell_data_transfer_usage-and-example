@@ -3,8 +3,6 @@
 example code    
 ## provide simple User_module
 
------------------------------------------------------
-
 data exchange between Nodejs and python    
 by Python-shell module
 
